@@ -1,8 +1,24 @@
 .App {
   text-align: center;
+  background-image: url("./img/weather.jpg");
+  height: 750px;
+  background-position-y: 863px;
 }
 
 .row {
   display: flex;
   justify-content: center;
+}
+
+body {
+  background-repeat: no-repeat;
+}
+
+input {
+  border: none;
+  margin-left: 1%;
+}
+
+input:focus {
+  background-color: aqua;
 }

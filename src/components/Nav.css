@@ -1,11 +1,13 @@
-#logoHenry {
-  margin-right: 20px;
-}
-
-.nav-header {
+/* .nav-header 
   display: flex;
   justify-content: space-between;
   padding-left: 30px;
   padding-right: 30px;
   background-color: lightgray;
+
+ */
+
+.title {
+  padding-top: 12%;
+  color: #fff;
 }
