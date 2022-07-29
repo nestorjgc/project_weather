@@ -5,6 +5,7 @@ import Cards from "./components/Cards.jsx";
 
 export default function App() {
   // HOOK: genera el State
+  //Check
   // [[], fn modificadora()]
   const [cities, setCities] = useState([]);
   //
