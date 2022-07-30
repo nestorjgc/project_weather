@@ -22,3 +22,16 @@ input {
 input:focus {
   background-color: aqua;
 }
+
+.footer-bg {
+  background-color: #303c42;
+}
+
+.footer {
+  margin-top: 27%;
+  color: #fff;
+  font-size: 10px;
+  width: 45%;
+  /* text-align: center; */
+  margin-left: 29%;
+}

@@ -45,6 +45,11 @@ export default function App() {
     <div className='App'>
       <Nav onSearch={onSearch} />
       <Cards cities={cities} onClose={onClose} />
+      <div className='footer-bg'>
+        <div className='footer'>
+          <h4>@2022 Copyright Nestor</h4>
+        </div>
+      </div>
     </div>
   );
 }
